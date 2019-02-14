@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\unity\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\unity\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Menu.-621741486.00" t="ExcludeRecursive" />
+    <e p="C:\Users\unity\Documents\Menu" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\Scripts" t="Include">
+        <e p="cube.cs" t="Include" />
+        <e p="MenuScript.cs" t="Include" />
+        <e p="select.cs" t="Include" />
+      </e>
+      <e p="Assets\snake.cs" t="Include" />
+      <e p="Assets\StreamingAssets" t="Include">
+        <e p="Vuforia" t="Include">
+          <e p="cet.xml" t="Include" />
+          <e p="VuforiaMars_Images.xml" t="Include" />
+        </e>
+      </e>
+      <e p="Assets\Sub_Scenes" t="Include">
+        <e p="BackButton.cs" t="Include" />
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Menu.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

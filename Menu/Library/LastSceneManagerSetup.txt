@@ -1,0 +1,19 @@
+sceneSetups:
+- path: Assets/Mainmenu.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Sub_Scenes/HomeAuto.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Sub_Scenes/Interior Design.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Sub_Scenes/AR REpair.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Sub_Scenes/Education.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Sub_Scenes/snakeandladder.unity
+  isLoaded: 0
+  isActive: 0
